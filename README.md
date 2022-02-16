@@ -856,8 +856,8 @@ body {
 
 ### Home Page:
 ![output](.//screeenshot (55).jpg)
-![output](.//screeenshot (55).jpg)
-![output](.//screeenshot (55).jpg)
+![output](.//screeenshot (57).jpg)
+![output](.//screeenshot (58).jpg)
 
 ## Result:
 
